@@ -22,3 +22,9 @@ to run the website run the following codes in order:
 npm install -g http-server
 http-server
 ```
+
+Then go to this url
+
+```html
+http://127.0.0.1:8080/
+```
